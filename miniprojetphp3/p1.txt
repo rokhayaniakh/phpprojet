@@ -1,0 +1,5 @@
+0129;Ndiaye;adama;06-08-94;775743102;ada125@gmail.com;exclus;000018;promo1;octobre;2018
+01210;Ndiaye;fatou;12-11-93;779323147;toufa125@gmail.com;abscent;000018;promo1;octobre;2018
+01212;fall;awa;01-01-1995;77859647;eva1258@gmail.com;present;000018;promo1;octobre;2018
+01211;diop;khady;5-31-1995;77859647;dykha@gmail.com;abscent;000018;promo1;octobre;2018
+

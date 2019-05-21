@@ -1,0 +1,2 @@
+000018;promo1;octobre;2018
+000019;promo2;avril;2019

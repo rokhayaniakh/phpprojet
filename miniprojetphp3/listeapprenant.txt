@@ -1,0 +1,11 @@
+0123;Diop;Rokhaya niakh;26-12-97;781766172;rokhyaniakh@gmail.com;present;
+0124;Diagne;Ndioba;08-02-97;771786172;ndiobadiagne@gmail.com;present;
+0125;Ndiongue;Lena;26-10-96;771756174;lenandiongue@gmail.com;present;
+0126;Dramé;Aminata;12-03-95;782266972;amina@gmail.com;present;
+0127;Senghor;Diéne;25-04-95;773768120;diene@gmail.com;present;
+0128;Diéme;Souleymane;14-09-95;785763192;gaindé@gmail.com;present;
+0129;Ndiaye;adama;06-08-94;775743102;ada125@gmail.com;exclus;
+01210;Ndiaye;fatou;12-11-93;779323147;toufa125@gmail.com;abscent;
+01211;diop;khady;5-31-1995;77859647;dykha@gmail.com;abscent;
+01212;fall;awa;01-01-1995;77859647;eva1258@gmail.com;present;
+

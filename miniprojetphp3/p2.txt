@@ -1,0 +1,7 @@
+0123;Diop;Rokhaya niakh;26-12-97;781766172;rokhyaniakh@gmail.com;present;000019;promo2;avril;2019
+0124;Diagne;Ndioba;08-02-97;771786172;ndiobadiagne@gmail.com;present;000019;promo2;avril;2019
+0125;Ndiongue;Lena;26-10-96;771756174;lenandiongue@gmail.com;present;000019;promo2;avril;2019
+0126;Dramé;Aminata;12-03-95;782266972;amina@gmail.com;present;000019;promo2;avril;2019
+0127;Senghor;Diéne;25-04-95;773768120;diene@gmail.com;present;000019;promo2;avril;2019
+0128;Diéme;Souleymane;14-09-95;785763192;gaindé@gmail.com;present;000019;promo2;avril;2019
+
